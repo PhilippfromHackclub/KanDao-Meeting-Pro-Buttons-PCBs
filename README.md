@@ -1,6 +1,6 @@
 # KanDao-Meeting-Pro-Buttons-PCBs
 These are two Buttons PCBs for the KanDao Meeting Pro in case of damage to the original ones due to a drop and afterwards detached camera module.<br>
-I designed the PCBs using measurements and components from the original ones. They are ment to replace the damaged two PCBs to restore functionality of the KanDao Meeting Pro.
+I designed the PCBs using measurements and components from the original ones. They are ment to replace the damaged two PCBs to restore functionality of the KanDao Meeting Pro. These PCBs are connected to a sub board of the KanDao Meeting Pro and control powering, changing volume and modes and muting. 
 
 **BOM:**
  | Quantity | Item | Price | Link |
